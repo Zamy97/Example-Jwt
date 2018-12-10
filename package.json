@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Zamy97/Example-Jwt/issues"
   },
-  "homepage": "https://github.com/Zamy97/Example-Jwt#readme"
+  "homepage": "https://github.com/Zamy97/Example-Jwt#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0"
+  }
 }
